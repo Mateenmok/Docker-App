@@ -7,4 +7,5 @@ This repo contains two small web apps (Flask and Pyramid) dockerized on the lamb
 
 ## Part 2 (Pyramid)
 ![Part2](Part2.png)
-
+### Part 3
+![Part 3](Part3.png)
