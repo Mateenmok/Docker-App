@@ -9,3 +9,6 @@ This repo contains two small web apps (Flask and Pyramid) dockerized on the lamb
 ![Part2](Part2.png)
 ### Part 3
 ![Part 3](Part3.png)
+
+## Part 4 (Docker Compose + Flask + Redis)
+![Part 4](img/Part4.png)

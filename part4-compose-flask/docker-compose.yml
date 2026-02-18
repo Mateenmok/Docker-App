@@ -1,0 +1,11 @@
+services:
+  web:
+    build: .
+    ports:
+      - "1092:5000"
+    volumes:
+      - .:/code
+    depends_on:
+      - redis
+  redis:
+    image: redis:latest
